@@ -1,2 +1,2 @@
-# Mathematics behind prominent Machine Learning Algorithms
-## Explanation of mathematics behind prominent Statistical Techniques 
+## Mathematics behind prominent Machine Learning Algorithms
+
